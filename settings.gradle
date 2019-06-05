@@ -1,0 +1,2 @@
+include ':app', ':mylibrary', ':test', ':buildtest'
+include ':buildSrc'
